@@ -96,90 +96,90 @@
   #header #nav .depth2 > li > a:hover {
     background: #f9f9fb;
   }
-}
 
-/* 슬라이드 도트버튼 */
-#section .slideOuter .slideInner ul.slick-dots {
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%);
-  bottom: 30px;
-}
-/* 자동재생 표시/멈춤 */
-#section .slideOuter .plapau {
-  position: absolute;
-  bottom: 28px;
-  left: 50%;
-  font-size: 20px;
-  color: #fff;
-  margin-left: 60px;
-}
+  /* 슬라이드 도트버튼 */
+  #section .slideOuter .slideInner ul.slick-dots {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 30px;
+  }
+  /* 자동재생 표시/멈춤 */
+  #section .slideOuter .plapau {
+    position: absolute;
+    bottom: 28px;
+    left: 50%;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 60px;
+  }
 
-/* 슬라이드 텍스트 */
+  /* 슬라이드 텍스트 */
 
-#section .slide .text {
-  top: 40%;
-}
-#section .slide .text h2 {
-  font-size: 40px;
-  opacity: 0;
-  transform: translate3d(0, 100%, 0);
-}
-#section .slide .text p {
-  display: none;
-}
-#section .slide .text a {
-  display: inline-block;
-  font-size: 16px;
-  color: #58aedd;
-  background: #fff;
-  padding: 10px 20px;
-  border-radius: 50px;
-  opacity: 0;
-  transform: translate3d(0, 100%, 0);
-  margin-top: 20px;
-}
+  #section .slide .text {
+    top: 40%;
+  }
+  #section .slide .text h2 {
+    font-size: 40px;
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+  }
+  #section .slide .text p {
+    display: none;
+  }
+  #section .slide .text a {
+    display: inline-block;
+    font-size: 16px;
+    color: #58aedd;
+    background: #fff;
+    padding: 10px 20px;
+    border-radius: 50px;
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+    margin-top: 20px;
+  }
 
-/* business 구역 */
+  /* business 구역 */
 
-#section .business ul li {
-  float: left;
-  width: 100%;
-  text-align: center;
-  height: 600px;
-  padding: 100px 30px;
-}
+  #section .business ul li {
+    float: left;
+    width: 100%;
+    text-align: center;
+    height: 600px;
+    padding: 100px 30px;
+  }
 
-/* product 구역 */
+  /* product 구역 */
 
-#section .product .text {
-  float: left;
-  width: 100%;
-  color: #fff;
-}
+  #section .product .text {
+    float: left;
+    width: 100%;
+    color: #fff;
+  }
 
-#section .product .text h2 {
-  font-size: 50px;
-}
+  #section .product .text h2 {
+    font-size: 50px;
+  }
 
-#section .product .photo {
-  float: left;
-  width: 100%;
-  text-align: center;
-  padding-top: 70px;
-}
+  #section .product .photo {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding-top: 70px;
+  }
 
-/* customer 구역*/
-#section .customer .row div span {
-  width: 100%;
-  float: left;
-  padding: 0 15px;
-  text-align: center;
-  margin: 10px 0;
-}
-#section .customer .row h2 {
-  font-size: 50px;
-  color: #333;
-  text-align: center;
-  margin-bottom: 30px;
+  /* customer 구역*/
+  #section .customer .row div span {
+    width: 100%;
+    float: left;
+    padding: 0 15px;
+    text-align: center;
+    margin: 10px 0;
+  }
+  #section .customer .row h2 {
+    font-size: 50px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+  }
 }
